@@ -101,7 +101,7 @@ pip install matplotlib numpy threading
 
 ### Clone Repository
 ```bash
-git clone [[repository-url]](https://github.com/Alidari/convex-polygon-detection-parallel.git)
+git clone https://github.com/Alidari/convex-polygon-detection-parallel.git
 cd "concave seri bulma"
 ```
 
